@@ -1,4 +1,4 @@
-# Java-Source-Code-Mini-Projects
+# Java Mini Projects
 
 ![Java Source Code Mini Projects](/images/java-source-code-mini-projects.png)
 
